@@ -1,0 +1,10 @@
+void add_customer (void ) ;
+void dispaly_customer (void) ;
+void update_balance (void) ;
+void find_id (void) ;
+void print_data (void ) ;
+void trans_cash (void) ;
+void account_settings(void) ;
+int find_customer (int search_id) ;
+void list (void) ;
+void active_customers(void) ;
