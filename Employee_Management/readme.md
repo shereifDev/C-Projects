@@ -45,20 +45,20 @@ Use `displayEmployee()` to search for an employee by their ID and display their 
 ### Viewing Company Statistics
 Call `statistics()` to view a summary of the company’s employees, including their positions, active/on-vacation status, and salary information.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_7.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_7.png)
 ### Managing Vacations
 The `take_avacation()` function allows you to assign a vacation to an employee by entering their ID, the vacation reason, number of days off, and start date. The employee's salary is automatically adjusted based on the vacation period.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_9.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_9.png)
 ### Modifying Employee Salary
 Use the `employeeServices()` function to:
 - Deduct a certain amount from the salary.
 - Add a bonus to the salary.
 - Update the salary to a new value.
 - 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_11.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_11.png)
 
 ### Listing Employees on Vacation
 The `display_vacations()` function will show all employees currently on vacation, including their vacation details.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_14.png)
+![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/C-Projects/blob/main/Employee_Management/shots/shot_14.png)
