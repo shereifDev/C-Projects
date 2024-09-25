@@ -36,12 +36,12 @@ When adding an employee, the following positions can be selected:
 ### Adding an Employee
 Run the `addEmployee()` function to register a new employee. You will be prompted to enter the employee’s ID, name, position, and salary.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_2.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_2.png)
 
 ### Displaying Employee Information
 Use `displayEmployee()` to search for an employee by their ID and display their information.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_5.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_5.png)
 ### Viewing Company Statistics
 Call `statistics()` to view a summary of the company’s employees, including their positions, active/on-vacation status, and salary information.
 
