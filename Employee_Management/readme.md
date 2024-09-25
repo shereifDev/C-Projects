@@ -55,10 +55,10 @@ Use the `employeeServices()` function to:
 - Deduct a certain amount from the salary.
 - Add a bonus to the salary.
 - Update the salary to a new value.
-- 
+
 ![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_11.png)
 
 ### Listing Employees on Vacation
 The `display_vacations()` function will show all employees currently on vacation, including their vacation details.
 
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/C-Projects/blob/main/Employee_Management/shots/shot_14.png)
+![Alt text](https://github.com/shereifDev/C-Projects/blob/main/Employee_Management/shots/shot_14.png)
