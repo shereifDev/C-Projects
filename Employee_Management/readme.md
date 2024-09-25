@@ -35,20 +35,16 @@ When adding an employee, the following positions can be selected:
 ## Usage
 ### Adding an Employee
 Run the `addEmployee()` function to register a new employee. You will be prompted to enter the employee’s ID, name, position, and salary.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_1.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_2.png)
 
 ### Displaying Employee Information
 Use `displayEmployee()` to search for an employee by their ID and display their information.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_4.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_5.png)
 ### Viewing Company Statistics
 Call `statistics()` to view a summary of the company’s employees, including their positions, active/on-vacation status, and salary information.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_6.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_7.png)
 ### Managing Vacations
 The `take_avacation()` function allows you to assign a vacation to an employee by entering their ID, the vacation reason, number of days off, and start date. The employee's salary is automatically adjusted based on the vacation period.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_8.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_9.png)
 
 ### Modifying Employee Salary
@@ -56,10 +52,8 @@ Use the `employeeServices()` function to:
 - Deduct a certain amount from the salary.
 - Add a bonus to the salary.
 - Update the salary to a new value.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_10.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_11.png)
 
 ### Listing Employees on Vacation
 The `display_vacations()` function will show all employees currently on vacation, including their vacation details.
-![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_13.png)
 ![Alt text](https://github.com/shereifDev/Employee-Management-Project-/blob/main/shots/shot_14.png)
